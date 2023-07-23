@@ -10,7 +10,7 @@ This project is about automating workflows by use of bots to automate once trigg
 
 ## Live URL
 
-The link to the project's repo is
+The link to the project's repo is https://github.com/Barchok-Kiposmet/RPA
 
 ## Technologies Used
 
@@ -24,7 +24,7 @@ You can reach me via email barchokpatrick@gmail.com
 
 ## Licence/Copyright
 
-For licence/copyright information check on the <a href="https://github.com/chaxito/Robotic_Automation/blob/main/LICENSE"><strong>Licence</strong></a> file.
+For licence/copyright information check on the <a href="https://github.com/Barchok-Kiposmet/RPA/blob/main/LICENSE"><strong>Licence</strong></a> file.
 
 ## Credits
 
