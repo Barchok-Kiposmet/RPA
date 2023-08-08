@@ -28,4 +28,4 @@ For licence/copyright information check on the <a href="https://github.com/Barch
 
 ## Credits
 
-Special appreciation given to Moringa School.
+Moringa School
